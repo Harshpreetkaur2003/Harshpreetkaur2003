@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harshpreetkaur2003
+- 👋 Hi, I’m @Harshpreet kaur
 - 👀 I’m interested in ...Data Analysis|Full stack python Development
 - 🌱 I’m currently learning ...Full stack python Development
 - 💞️ I’m looking to collaborate on ...Deloite,TCS,Congnizant,Myntra

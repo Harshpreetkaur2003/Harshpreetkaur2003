@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshpreet kaur
 - 👀 I’m interested in ...Data Analyst | Data-Aspirant
-- 🌱 I’m currently learning ...Power BI,SQL,Core Python
+- 🌱 I’m currently learning ...Power BI | SQL | Core Python | Excel
 - 💞️ I’m looking to collaborate on ...Deloitte,TCS,Cognizant,Myntra
 - 📫 How to reach me ...preetkaursd1267@gmail.com
 - ⚡ Fun fact: ...Tech Enthusiast|Always Learning|Data Detective|Nature Lover|Problem Solver|Chart Whispere
